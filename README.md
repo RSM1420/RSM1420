@@ -1,6 +1,6 @@
 ## Hi, I'm Raghad Saad Al-Madani 👋
 IT & Technology Engineering Specialist · Power BI & Data Analytics
-LinkedIn Email Location
+
 <!--
 **RSM1420/RSM1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
